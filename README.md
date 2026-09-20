@@ -1,1 +1,1 @@
-# Nova Shop E commerce.
+# Nova Shop E-commerce.
